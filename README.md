@@ -68,3 +68,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Title: Learn the MERN Stack - Full Tutorial (MongoDB, Express, React, Node.js)
+Channel: freeCodeCamp.org
+Link: https://www.youtube.com/watch?v=7CqJlxBYj-M
+
+Backend
+    cd backend
+    npm init -y
+    npm install express cors mongoose dotenv 
+    sudo npm install -g nodemon
+    nodemon server 
+
+React
+    npm start
+    npm install axios
